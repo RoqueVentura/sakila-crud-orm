@@ -15,7 +15,7 @@ class DbContext:
         'port':     int(os.environ.get('DB_PORT', 3306)),
         'database': os.environ.get('DB_NAME',     'sakila'),
         'user':     os.environ.get('DB_USER',     'root'),
-        'password': os.environ.get('DB_PASSWORD', 'Empresario@1'),
+        'password': os.environ.get('DB_PASSWORD', 'FuesHAJX@dsdsw1'),
         'charset':  'utf8mb4',
     }
 
