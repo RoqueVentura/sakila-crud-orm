@@ -6,7 +6,7 @@ DB_CONFIG = {
     'port':     3306,
     'database': 'sakila',
     'user':     'root',
-    'password': os.environ.get('DB_PASSWORD', 'Empresario@1'),
+    'password': os.environ.get('DB_PASSWORD', 'FuesHAJX@dsdsw1'),
 }
 
 def get_config() -> dict:
